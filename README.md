@@ -16,7 +16,7 @@
 
 :bulb: **Veja uma amostra a seguir:**
 
-  ![project sample](./sample.png)
+  ![project sample](src/images/sample.png)
 
 ## Habilidades Usadas:
   * Utilizar JSX no React;
